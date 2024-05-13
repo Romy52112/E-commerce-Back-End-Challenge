@@ -2,6 +2,12 @@
   ## Project Title 
   E-commerce-Back-End-Challenge
   ## License
+
+  ## Walkthrough Video
+  
+
+  ## Screenshoot
+  ![alt text](e-commerce-challenge.png)
    
   ## Description
   This is an app where you can get the information from your api. What we have here are, category, product and tags. You can get by all product, products by ID, and you can also create a new product, you can update and can delete a product in your api.
